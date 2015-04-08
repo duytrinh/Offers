@@ -1,1 +1,0 @@
-adb -s emulator-5554 install -r TCISimpleOffers.apk
